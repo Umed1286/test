@@ -1,0 +1,7 @@
+My name is 
+
+pwt
+cd
+dir
+git status
+git add test1.txt
